@@ -4,7 +4,6 @@ import pickle as pk
 import streamlit as st
 import base64
 from datetime import datetime
-import matplotlib.pyplot as plt
 
 # ------------------ PAGE CONFIG ------------------
 st.set_page_config(page_title="Car Price Prediction Model", layout="wide")
