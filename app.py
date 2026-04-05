@@ -7,7 +7,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 
 # ------------------ PAGE CONFIG ------------------
-st.set_page_config(page_title="Car Price Predictor", layout="wide")
+st.set_page_config(page_title="Car price predictor", layout="wide")
 
 # ------------------ CUSTOM CSS ------------------
 st.markdown("""
