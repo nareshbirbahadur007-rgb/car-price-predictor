@@ -57,7 +57,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ------------------ LOAD DATA ------------------
-model = pk.load(open('model.pkl','rb'))
 cars_data = pd.read_csv('cardetails.csv')
 img_data = pd.read_csv('car_images.csv')
 
